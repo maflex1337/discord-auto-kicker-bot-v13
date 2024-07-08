@@ -1,0 +1,23 @@
+{
+  "name": "kickbot",
+  "version": "1.0.0",
+  "description": "This is a Discord bot that automatically kicks all new users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maflex1337/kickbot.git"
+  },
+  "author": "maflex1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maflex1337/kickbot/issues"
+  },
+  "homepage": "https://github.com/maflex1337/kickbot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
